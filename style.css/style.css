@@ -1,0 +1,37 @@
+#myTable{
+    border-collapse: collapse;
+}
+
+#myTable th{
+    background-color: gold;
+    padding: 7px;
+}
+
+
+#myTable button{
+    background-color: rgb(187, 106, 106);
+    color: rgb(179, 166, 166);
+}
+
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.qoshish2{
+border-radius: 1cm;
+background-color: rebeccapurple;
+}
+
+
+.button{
+    margin: 40px;
+}

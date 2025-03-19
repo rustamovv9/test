@@ -1,0 +1,29 @@
+.mather1{
+    display: flex;
+    justify-content: center;
+}
+
+.mather2{
+    background-color: aqua;
+    border: 2px solid;
+}
+
+.mather2{
+    width: 350px;
+    height: 510px;
+}
+
+.h1{
+    text-align: center;
+    margin-left: 20px;
+}
+
+.btn{
+   background-color: rgb(74, 74, 74);
+   color: white;
+}
+
+#left{
+    margin-left: 20px;
+    width: 300px;
+}

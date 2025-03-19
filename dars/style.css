@@ -1,0 +1,24 @@
+.h,img{
+height: 500px;
+}
+
+.h{
+    text-align: center;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    background-color: aqua;
+}
+
+.h{
+    height: 750px;
+    border: 1px solid;
+    background-color: aqua;
+}
+.h,h1{
+    color: blue;
+}

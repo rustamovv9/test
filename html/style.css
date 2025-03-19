@@ -1,0 +1,25 @@
+.div-mother {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+
+#div-1 {
+    background-color: aqua;
+    height: 60px;
+    width: 60px;
+}
+
+#div-2 {
+    background-color: rgb(10, 78, 78);
+    height: 60px;
+    width: 60px;
+}
+
+#div-3 {
+    background-color: rgb(44, 206, 26);
+    height: 60px;
+    width: 60px;
+}
